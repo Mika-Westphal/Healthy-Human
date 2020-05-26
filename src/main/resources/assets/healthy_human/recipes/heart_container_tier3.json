@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "wxw",
+    "zyz",
+    "wxw"
+  ],
+  "key":
+  {
+    "w":
+    {
+      "item": "minecraft:ender_eye"
+    },
+    "x":
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    "y":
+    {
+      "item": "minecraft:emerald_block"
+    },
+    "z":
+    {
+      "item": "healthy_human:heart_container_tier2"
+    }
+  },
+  "result":
+  {
+    "item": "healthy_human:heart_container_tier3",
+    "count": 1
+  }
+}

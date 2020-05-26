@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "healthy_human:items/heart_container_tier1"
+    }
+}

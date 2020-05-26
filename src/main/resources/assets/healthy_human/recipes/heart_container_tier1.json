@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " y ",
+    "xzx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond"
+    },
+    "y":
+    {
+      "item": "minecraft:golden_apple",
+      "data": 0
+    },
+    "z":
+    {
+      "item": "minecraft:cake"
+    }
+  },
+  "result":
+  {
+    "item": "healthy_human:heart_container_tier1",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "healthy_human",
+  "name": "Healthy Human",
+  "description": "Gives you more live.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IGambleNull"],
+  "credits": "The Forge, FML and Baubles guys, for making the modloader and the Baubles mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["baubles"]
+}
+]
